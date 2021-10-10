@@ -307,7 +307,7 @@ body > div:first-child {
   }
 
   .popular {
-    width: 350px;
+    width: 80%;
   }
 
   .popular-virtual-container {
